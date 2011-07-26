@@ -2,7 +2,7 @@
 Summary: Bluecurve GNOME theme
 Name: bluecurve-theme
 Version: 1.0.0
-Release: %mkrel 3
+Release: %mkrel 4
 BuildArch: noarch
 License: GPL+
 Group: Graphical desktop/GNOME
