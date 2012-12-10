@@ -67,3 +67,24 @@ rm -rf $RPM_BUILD_ROOT
 %_datadir/icons/Bluecurve/??x??/
 %ghost %_datadir/icons/Bluecurve/icon-theme.cache
 
+
+
+%changelog
+* Tue Jul 26 2011 Götz Waschk <waschk@mandriva.org> 1.0.0-4mdv2012.0
++ Revision: 691690
+- rebuild
+
+* Wed Jul 23 2008 Thierry Vignaud <tv@mandriva.org> 1.0.0-3mdv2011.0
++ Revision: 243355
+- rebuild
+
+* Tue Jan 08 2008 Götz Waschk <waschk@mandriva.org> 1.0.0-1mdv2008.1
++ Revision: 146708
+- import bluecurve-theme
+
+
+* Tue Jan  8 2008 Götz Waschk <waschk@mandriva.org> 1.0.0-1mdv2008.1
+- initial Mandriva package
+
+* Tue Sep 25 2007 Ray Strode <rstrode@redhat.com> - 1.0.0-1
+- Initial import, version 1.0.0
