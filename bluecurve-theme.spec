@@ -10,7 +10,7 @@ Source0: bluecurve-gnome-theme-%{version}.tar.bz2
 Source1: bluecurve-icon-theme-%iversion.tar.bz2
 Source2: bluecurve-metacity-theme-%version.tar.bz2
 Source3: bluecurve-classic-metacity-theme-%version.tar.bz2
-URL: http://www.redhat.com
+URL: https://www.redhat.com
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
 BuildRequires: perl-XML-Parser
 Requires: gtk-engines2 >= 2.13.3-2mdv
